@@ -1,7 +1,7 @@
 Привет!
 
 Это пример моей верстки от сентября 2019,
-- pixel Perfect, макет png 1:1 разрешение экрана 1438 x 678.
+- pixel perfect, макет png 1:1 разрешение экрана 1438 x 678.
 https://drive.google.com/drive/folders/1q0SM0Uc39eEbxzEz5Es1TAF-C7s9rZr6?usp=sharing
 - адаптивная версия до ширины 324px
 - браузер Google Chrome
