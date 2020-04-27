@@ -1,9 +1,7 @@
 Доброго дня!
 
 Это пример моей верстки от сентября 2019,
-- pixel perfect, макет 1:1 разрешение 1438 x 678.
-
-https://drive.google.com/drive/folders/1q0SM0Uc39eEbxzEz5Es1TAF-C7s9rZr6?usp=sharing
+- pixel perfect, макет 1:1 разрешение 1438 x 678 https://bit.ly/358VHJT
 - слайдеры, меню и попапы на плагинах, bootstrap сетка
 - адаптивность 324px - 1440px
 - браузер chrome
